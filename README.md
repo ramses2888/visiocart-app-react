@@ -30,10 +30,16 @@ visiocart-app-react/
 Desarrollado con React, Vite, Tailwind CSS v4 y React Router:
 
 T02 Tablet Embebida del Carrito (Modo Kiosk): Interfaz táctil para el carrito inteligente. Muestra en tiempo real la detección visual por IA con bounding box, lista interactiva de productos, cálculo dinámico de subtotal/total, mapa de pasillos y generador de código QR para pago.
+<img width="1850" height="945" alt="image" src="https://github.com/user-attachments/assets/d0b4b4ba-37aa-44cc-8a35-80fecd133ae6" />
+
 
 C02/C03 Terminal POS del Cajero: Consola de caja de alta eficiencia para importación automática de la orden vía QR, verificación cruzada instantánea por báscula de peso e IA, y procesamiento de pago.
+<img width="1845" height="942" alt="image" src="https://github.com/user-attachments/assets/96fbc794-fc7d-4aa1-8a03-dccc645b06f8" />
+
 
 A02 Dashboard Administrativo & Telemetría: Panel de control centralizado para la supervisión del estado operativo de la flota de carritos (batería, ubicación en mapa, alertas técnicas de hardware) y métricas de ventas.
+<img width="1841" height="941" alt="image" src="https://github.com/user-attachments/assets/1be372e8-2c9f-4b5b-9963-e027bd838e43" />
+
 
 2. 📱 Aplicación Móvil (visiocart-mobile)
 Desarrollada con React Native y Expo (SDK 58):
