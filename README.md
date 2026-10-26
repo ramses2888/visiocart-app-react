@@ -45,7 +45,7 @@ A02 Dashboard Administrativo & Telemetría: Panel de control centralizado para l
 Desarrollada con React Native y Expo (SDK 58):
 
 M02 App del Cliente (Mobile First): Interfaz vertical para el usuario final que permite la autenticación, la generación del código QR único de vinculación con la tablet del carrito (Scan to Bind with Cart #402), la consulta del historial de compras recientes (Purchase History RF-11) y el acceso a cupones promocionales.
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b56ca26e-3a04-49c1-a297-3f3c01eb346c" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/b56ca26e-3a04-49c1-a297-3f3c01eb346c" />
 
 
 🎨 Paleta de Colores Corporativa & Diseño Visual
